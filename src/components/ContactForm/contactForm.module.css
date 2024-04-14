@@ -1,0 +1,31 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    margin: 15px;
+    width: 90%;
+    border-radius: 5px;
+  }
+  
+  .btn {
+    margin-top: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: rgb(8, 116, 8);
+    border-radius: 5px;
+    width: 40%;
+    margin: 0 auto;
+    color: rgb(255, 255, 255);
+  }
+  .label {
+    margin-bottom: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+  
+  .input {
+    margin-bottom: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: 1px solid black;
+    border-radius: 5px;
+  }

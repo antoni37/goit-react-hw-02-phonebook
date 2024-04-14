@@ -1,0 +1,23 @@
+.contactList {
+    width: 90%;
+    margin-left: 15px;
+    padding: 5px 10px;
+    border-radius: 5px;
+    list-style: none;
+  }
+  
+  .deleteButton {
+    margin-left: 20px;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: rgb(156, 2, 2);
+    color: rgb(255, 255, 255);
+  }
+  
+  .contactItem {
+    margin-bottom: 5px;
+  }
+  
+  .contactItem:last-of-type {
+    margin-bottom: 0;
+  }

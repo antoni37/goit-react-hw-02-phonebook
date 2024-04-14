@@ -1,0 +1,21 @@
+.filter {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 90%;
+    margin-bottom: 30px;
+    margin-left: 15px;
+  }
+  
+  .filterInput {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    min-width: 50%;
+    border: 1px solid black;
+    border-radius: 5px;
+  }
+  
+  .label {
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
